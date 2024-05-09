@@ -1,5 +1,10 @@
 Criando arquivo no Github para depois carregar para o Git local
 arroz
+sabao em pó
+detergente
+sabonete
+ovos
+
 feijão
 macarrão
 oleo
